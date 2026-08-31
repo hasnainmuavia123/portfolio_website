@@ -19,7 +19,7 @@ const projectsData = [
       "Dynamic job-description-to-candidate weighted fit scoring",
       "Automated evaluation report generation with actionable insights"
     ],
-    techStack: ["Python", "FastAPI", "LangChain", "OpenAI / Claude", "ChromaDB", "Docker"],
+    techStack: ["Python", "FastAPI", "LangGraph", "OpenAI / Claude", "ChromaDB", "Docker"],
     image: "assets/images/recruitment.jpg",
     githubUrl: "https://github.com/hasnainmuavia123/AI_Recruitment_Screening_Automation_System",
     liveUrl: "https://github.com/hasnainmuavia123/AI_Recruitment_Screening_Automation_System"
